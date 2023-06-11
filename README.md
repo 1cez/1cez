@@ -2,11 +2,13 @@
 
 ### Languages
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/1cez)
-[![TypeScript](https://img.shields.io/badge/Typescript-JS-blue)](https://github.com/1cez)
+[![TypeScript](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript)](https://github.com/1cez)
+
 
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)]
-[![NextJS](https://img.shields.io/badge/Next-JS-blue)]
+[![ReactNative](https://img.shields.io/badge/react-native-black?style=for-the-badge&logo=react-native)]
+[![NextJS](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next)]
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)]
 [![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)]
 
